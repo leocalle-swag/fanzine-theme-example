@@ -1,0 +1,15 @@
+{
+  "name": "kawaii",
+  "version": "1.0.0",
+  "engines": { "fanzine": "1" },
+  "contributes": {
+    "themes": [
+      { "id": "kawaii", "label": "Kawaii", "path": "themes/kawaii.json" }
+    ],
+    "filters": [
+      { "id": "kawaii.glitter", "label": "Glitter", "path": "filters/glitter.json" },
+      { "id": "kawaii.blush", "label": "Blush", "path": "filters/blush.json" },
+      { "id": "kawaii.confetti", "label": "Coriandoli", "path": "filters/confetti.json" }
+    ]
+  }
+}

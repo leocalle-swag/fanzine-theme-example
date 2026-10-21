@@ -1,0 +1,7 @@
+{
+  "script": "glitter.js",
+  "params": [
+    { "key": "amount", "type": "slider", "label": "Forza", "min": 0, "max": 1, "step": 0.01, "default": 0.7 },
+    { "key": "spark", "type": "color", "label": "Scintilla", "default": "#fff6c8" }
+  ]
+}

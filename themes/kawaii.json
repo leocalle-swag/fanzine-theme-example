@@ -1,0 +1,14 @@
+{
+  "colors": {
+    "bg": "#fff4fb",
+    "panel": "#ffe4f3",
+    "panel2": "#ffd0ea",
+    "line": "#ff9ec8",
+    "text": "#4a1942",
+    "muted": "#a85a86",
+    "accent": "#ff4f9a",
+    "ink": "#2a1024"
+  },
+  "radius": "16px",
+  "font": { "family": "Sniglet", "file": "../fonts/Sniglet-Regular.woff2" }
+}
